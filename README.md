@@ -1,4 +1,8 @@
 # CZDS-Client
+[![Build Status](https://img.shields.io/teamcity/build/s/CzdsClient_Build?server=https%3A%2F%2Fci.sidpatchy.com&style=flat-square)](https://ci.sidpatchy.com/buildConfiguration/CzdsClient_Build?branch=%3Cdefault%3E&buildTypeTab=overview)
+[![GitHub License](https://img.shields.io/github/license/Sidpatchy/CZDS-Client?style=flat-square)](https://github.com/Sidpatchy/CZDS-Client/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Sidpatchy/CZDS-Client?style=flat-square)](https://github.com/Sidpatchy/CZDS-Client/commits/main/)
+
 A modern tool and Java library for downloading zone files from ICANN's CZDS API.
 
 **CZDS-Client is in NO WAY associated with ICANN. It is a project built and maintained by Sidpatchy.**
