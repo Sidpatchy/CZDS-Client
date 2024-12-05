@@ -6,7 +6,7 @@
 
 A modern tool and Java library for downloading zone files from ICANN's CZDS API.
 
-**CZDS-Client is in NO WAY associated with ICANN. It is a project built and maintained by Sidpatchy.**
+**CZDS-Client is in NO WAY associated with ICANN. It is a project independently built and maintained by Sidpatchy.**
 
 ## CLI
 CZDS-Client includes a basic CLI. Usage details can be viewed below.
